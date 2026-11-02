@@ -1,0 +1,3 @@
+- Ministro de Economía: Juan Pérez
+- Ministro de Educación: Ana Gómez
+- Ministro de Salud: Carlos Ruiz
