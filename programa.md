@@ -24,3 +24,4 @@ Presidente: Don Commit Permanente
 9. Se eliminarán los errores 404 por decreto.
 
 
+10. Impuesto de 100 euros por utilizar el teclado.
